@@ -1,7 +1,7 @@
 👋 : Hi, I'm Emerick. I am a beginner lua developper from Reunion Island.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📫 Contact Me on Discord for question : Emerick #0001
+📫 Contact Me on Discord for question : emerick (previous name : Emerick#6666) 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚡ I already do some FiVEM project :
